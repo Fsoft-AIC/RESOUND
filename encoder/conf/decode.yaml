@@ -1,0 +1,16 @@
+common:
+  user_dir: ???
+
+common_eval:
+  results_path: ???
+  path: ???
+
+dataset:
+  batch_size: 10
+  gen_subset: test
+  num_workers: 0
+
+override:
+  noise_prob: 0.0
+  noise_snr: 0
+  modalities: ['video']

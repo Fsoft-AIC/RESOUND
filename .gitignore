@@ -1,0 +1,13 @@
+FMDecoder/
+avhubert/
+fairseq/
+encoder/exp
+encoder/scripts/lrs3/inference_avhubert_lrs2.sh
+encoder/scripts/lrs3/inference.sh
+encoder/scripts/lrs3/train_avhubert_lrs2.sh
+encoder/scripts/lrs3/train_avhubert_lrs3_debug.sh
+encoder/scripts/lrs3/train.sh
+encoder/checkpoints
+vocoder/checkpoints
+from_author
+results"RESOUND2/encoder/*.log" 

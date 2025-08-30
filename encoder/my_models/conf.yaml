@@ -1,0 +1,13 @@
+transformer:
+  encoder_hidden: 256
+
+variance_predictor:
+  filter_size: 256
+  kernel_size: 3
+  dropout: 0.5
+
+preprocessing:
+  pitch:
+    feature: phoneme_level
+  energy:
+    feature: phoneme_level
